@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Alice",
+        "department":"HR"
+    },
+    {
+        "id":2,
+        "name":"Bob",
+        "department":"Finance"
+    },
+    {
+        "id":3,
+        "name":"Charlie",
+        "department":"IT"
+    }
+]

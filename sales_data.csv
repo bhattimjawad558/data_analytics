@@ -1,0 +1,6 @@
+Product,Quantity,Unit_Price,Region
+A,10.0,20,North
+B,5.0,30,South
+C,8.0,25,
+D,12.0,40,East
+E,,35,West
